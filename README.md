@@ -6,6 +6,7 @@
 
 [简体中文](#项目简介)
 
+https://github.com/15395436051/Azeroth-Legend/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-11-14%20123031.png
 ## Project vision
 
 Build an independent 3D online RPG with:
