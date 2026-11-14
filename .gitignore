@@ -1,0 +1,47 @@
+# Build outputs
+/build/
+/cmake-build-*/
+/bin/
+/obj/
+/Binaries/
+/Intermediate/
+/Saved/
+/DerivedDataCache/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.pid
+*.dmp
+logs/
+tmp/
+temp/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+private/
+
+# Local server configuration (commit sanitized templates only)
+worldserver.conf
+authserver.conf
+*.local.conf
+
+# Database exports and backups
+*.sql
+*.sql.gz
+*.dump
+*.bak
+backups/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
